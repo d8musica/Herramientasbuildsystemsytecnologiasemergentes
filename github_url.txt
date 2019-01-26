@@ -1,4 +1,4 @@
 Usuario:user
-Contraseña:pass
+Contraseï¿½a:pass
 
-URL:https://github.com/d8musica/Herramientas-BuildSystems-y-Tecnolog-as-emergentes
+URL:https://github.com/d8musica/Herramientasbuildsystemsytecnologiasemergentes
